@@ -1,0 +1,1 @@
+C:\Users\thangnc\AppData\Local\Programs\Python\Python37\python svr.py
