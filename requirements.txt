@@ -2,3 +2,4 @@ pandas
 requests
 flask
 flask-cors
+gunicorn
